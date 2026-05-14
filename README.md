@@ -8,7 +8,7 @@ It started as a public-facing offcut from a larger Hyperliquid trading system. T
 
 ## Screenshot
 
-![HL Terminal screenshot](screenshots/terminal.png)
+![HyperTerminal screenshot](screenshots/terminal.png)
 
 ## Features
 
